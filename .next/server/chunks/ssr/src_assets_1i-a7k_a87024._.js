@@ -1,3 +1,0 @@
-module.exports=[25381,a=>{a.v("/_next/static/media/ceo.2yuappxipaay3.jpg"+(globalThis.NEXT_CLIENT_ASSET_SUFFIX||""))},76108,a=>{a.v("/_next/static/media/director.3xci96bkewk3o.jpg"+(globalThis.NEXT_CLIENT_ASSET_SUFFIX||""))},66088,a=>{a.v("/_next/static/media/marketing-head.1neja9718xf4g.jpg"+(globalThis.NEXT_CLIENT_ASSET_SUFFIX||""))},84983,a=>{a.v("/_next/static/media/technical-adviser.0thf-khrqgi3r.jpg"+(globalThis.NEXT_CLIENT_ASSET_SUFFIX||""))}];
-
-//# sourceMappingURL=src_assets_1i-a7k_a87024._.js.map

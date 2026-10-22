@@ -1,1 +1,0 @@
-(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,11748,(o,i,t)=>{let s="/Index";(window.__NEXT_P=window.__NEXT_P||[]).push([s,()=>o.r(1370)]),i.hot&&i.hot.dispose(function(){window.__NEXT_P.push([s])})},1370,o=>{"use strict";o.i(91788),o.i(65713),o.s([])}]);
