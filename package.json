@@ -39,6 +39,7 @@
   "@radix-ui/react-toggle": "^1.1.0",
   "@radix-ui/react-toggle-group": "^1.1.0",
   "@radix-ui/react-tooltip": "^1.1.4",
+  "@swc/core": "^1.13.5",
   "@tanstack/react-query": "^5.56.2",
   "browserslist": "^4.27.0",
   "caniuse-lite": "^1.0.30001751",
@@ -47,6 +48,7 @@
   "cmdk": "^1.0.0",
   "date-fns": "^3.6.0",
   "embla-carousel-react": "^8.3.0",
+  "esbuild": "^0.25.11",
   "framer-motion": "^12.23.24",
   "input-otp": "^1.2.4",
   "lucide-react": "^0.462.0",
@@ -86,5 +88,9 @@
   "typescript": "^5.5.3",
   "typescript-eslint": "^8.0.1",
   "vite": "^7.1.12"
+ },
+ "allowScripts": {
+  "esbuild@0.28.2": true,
+  "@swc/core@1.13.5": true
  }
 }
