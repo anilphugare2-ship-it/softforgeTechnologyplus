@@ -1,0 +1,11 @@
+var R=require("../chunks/ssr/[turbopack]_runtime.js")("server/pages/Contact.js")
+R.c("server/chunks/ssr/[root-of-the-server]__0vouj4y1tpj29._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__1vtc02muz2cf4._.js")
+R.c("server/chunks/ssr/_1w3o1g8b-39j1._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__19_ji2741mzdt._.js")
+R.c("server/chunks/ssr/_0qv9nos0a1940._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__213_-ztqm1qka._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__031ppiv-y3ybh._.js")
+R.c("server/chunks/ssr/node_modules_next_1_o5zxs01k1z6._.js")
+R.m(51097)
+module.exports=R.m(51097).exports
