@@ -1,9 +1,8 @@
 {
   "pages": {
     "/_app": [
-      "static/chunks/1glv5h60yax6q.js",
-      "static/chunks/2limpm02qjmn9.js",
-      "static/chunks/3lz8qq6ea-4xt.js",
+      "static/chunks/1hyxu-wc6hs1y.js",
+      "static/chunks/376vnk_fsr3tq.js",
       "static/chunks/turbopack-2c3mg3r-05n1w.js"
     ],
     "/_error": [
@@ -14,18 +13,17 @@
   "devFiles": [],
   "polyfillFiles": [],
   "lowPriorityFiles": [
-    "static/7Q_p6oQDO9olGQJxet9el/_buildManifest.js",
-    "static/7Q_p6oQDO9olGQJxet9el/_ssgManifest.js",
-    "static/7Q_p6oQDO9olGQJxet9el/_clientMiddlewareManifest.js"
+    "static/VH5tWEq3QZYACrgWT6aqG/_buildManifest.js",
+    "static/VH5tWEq3QZYACrgWT6aqG/_ssgManifest.js",
+    "static/VH5tWEq3QZYACrgWT6aqG/_clientMiddlewareManifest.js"
   ],
   "rootMainFiles": [],
   "rootMainFilesTree": {},
   "pagesChunkGroupBootstrapParams": {
     "/_app": {
       "otherChunks": [
-        "static/chunks/1glv5h60yax6q.js",
-        "static/chunks/2limpm02qjmn9.js",
-        "static/chunks/3lz8qq6ea-4xt.js"
+        "static/chunks/1hyxu-wc6hs1y.js",
+        "static/chunks/376vnk_fsr3tq.js"
       ],
       "runtimeModuleIds": [
         10783,
